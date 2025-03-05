@@ -29,6 +29,12 @@
 	.why-text p{
 		margin: 0px;
 	}
+	.cover-slides h1{
+		font-size: 44px;
+	}
+	.cover-slides p {
+		font-size: 16px;
+	}
 }
 
 /* mobile or only mobile */
