@@ -447,6 +447,17 @@ button:focus{
 
 
 
+@media (max-width: 768px){
+    .qt-background .mission {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .qt-background .btn {
+        display:block;
+    }
+    
+}
+
 
 /*------------------------------------------------------------------
     Key Features
@@ -1604,7 +1615,6 @@ blockquote {
     transition: opacity 0.2s ease-out;
 	font-size: 30px;
 }
-
 
 
 
